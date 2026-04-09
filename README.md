@@ -9,7 +9,7 @@ Welcome to the **Pokemon Card Generator**! This fun web application allows you t
 - 📱 Mobile-friendly design
 
 ## 🌐 Live Demo
-Check out the live version here: [https://iam269.github.io/Pokemon-Card-Generator/](https://iam269.github.io/Pokemon-Card-Generator/)
+Check out the live version here: [https://itsiamdev.github.io/Pokemon-Card-Generator/](https://itsiamdev.github.io/Pokemon-Card-Generator/)
 
 ## 🛠️ Technologies Used
 - HTML5
